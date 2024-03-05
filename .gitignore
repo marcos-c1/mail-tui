@@ -1,5 +1,5 @@
-./service/credentials.json
-./service/token.json
-./service/venv
-./service/build.sh
-./tui/build.sh
+service/credentials.json
+service/token.json
+service/venv
+service/build.sh
+tui/build.sh
